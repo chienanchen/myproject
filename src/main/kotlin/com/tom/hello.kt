@@ -4,7 +4,10 @@ fun main(args: Array<String>) {
     //println("hello kotlin")
     //Human().Happy()
     val h = Human()
-    h.Happy()
+    val age = 31
+    var name : String
+    name = "hank"
+
 
 }
 class Human {
